@@ -1,3 +1,6 @@
+# Video explanation
+
+https://drive.google.com/file/d/1jjyUTsG2mkrIZ_Aswgx8Uti8i8VUC9J5/view?usp=sharing
 # Single Responsibility Principle (SRP)
 
 ## 📌 Introduction
